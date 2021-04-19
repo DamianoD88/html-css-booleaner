@@ -22,3 +22,9 @@ header {
 .evidenziare{
     background-color: yellow;
 }
+
+/* colore tabella */
+thead{
+    background-color: #3f87a6;
+    color: #fff;
+}
