@@ -6,9 +6,15 @@ header {
     
 }
 
-/* fine header */
-
 .immagine{
     height: 250px;
     width: 250px;
+}
+
+/* fine header */
+
+/* inizio copro pagina */
+
+.colore-ciano{
+    color: cyan;
 }
