@@ -37,6 +37,10 @@ tbody, tfoot {
     background-color: #e4f0f5;
 }
 
+.no-color{
+    background-color: white;
+}
+
 /* interessi finali */
 #grigio{
     color: lightslategrey;
