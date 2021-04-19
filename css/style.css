@@ -11,10 +11,14 @@ header {
     width: 250px;
 }
 
+.colore-ciano{
+    color: cyan;
+}
+
 /* fine header */
 
 /* inizio copro pagina */
 
-.colore-ciano{
-    color: cyan;
+.evidenziare{
+    background-color: yellow;
 }
