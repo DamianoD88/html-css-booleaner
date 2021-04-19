@@ -1,6 +1,14 @@
+/* inizio header */
 header {
     background-color: cornflowerblue;
-    height: 200px;
+    height: 170px;
     background-image: url(../img/pattern.png);
     
+}
+
+/* fine header */
+
+.immagine{
+    height: 250px;
+    width: 250px;
 }
