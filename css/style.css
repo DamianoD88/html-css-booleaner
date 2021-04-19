@@ -1,3 +1,7 @@
+.container{
+    text-align: center;
+}
+
 /* inizio header */
 header {
     background-color: cornflowerblue;
@@ -33,6 +37,7 @@ tbody, tfoot {
     background-color: #e4f0f5;
 }
 
+/* interessi finali */
 #grigio{
     color: lightslategrey;
 
