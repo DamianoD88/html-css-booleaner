@@ -28,3 +28,12 @@ thead{
     background-color: #3f87a6;
     color: #fff;
 }
+
+tbody, tfoot {
+    background-color: #e4f0f5;
+}
+
+#grigio{
+    color: lightslategrey;
+
+}
